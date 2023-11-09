@@ -1,0 +1,14 @@
+#gojo{   
+      width: 200px;
+      border: solid 8px rgb(74, 74, 221)
+    ;
+}
+.principal{
+    background-color: antiquewhite;
+        color: aquamarine;
+}
+.rodape{
+    background-color: beige;
+    color: bisque;
+    text-align: center;
+}
