@@ -1,11 +1,11 @@
 #gojo{   
       width: 200px;
-      border: solid 8px rgb(74, 74, 221)
+      border: solid 2px rgb(74, 150, 221))
     ;
 }
 .principal{
-    background-color: antiquewhite;
-        color: aquamarine;
+    background-color: white;
+        color: rgb(10, 10, 10);
 }
 .rodape{
     background-color: beige;
