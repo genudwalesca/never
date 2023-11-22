@@ -12,10 +12,10 @@
     border: 3px white;
 }
 .principal{
-    background-color: aliceblue;
+    background-color: rgb(21, 54, 83);
     border: 10px;
-    border-color: aliceblue;
+    border-color: rgb(114, 149, 180);
     border-style: double;
     margin: 30px;
-    color: aliceblue;
+    color: rgb(10, 81, 143);
 }
