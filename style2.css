@@ -7,7 +7,10 @@
     color: aliceblue;
     font-weight: 400;
 }
-
+#walesca{
+    width: 300px;
+    border: 3px white;
+}
 .principal{
     background-color: aliceblue;
     border: 10px;
