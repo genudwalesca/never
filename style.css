@@ -1,3 +1,14 @@
+#Link{
+    font-size: 20px;
+    color: aqua;
+    text-decoration: none;
+}
+Link:hover{
+    font-size: 25px;
+    color: rgb(103, 78, 194))55, 0, 255);
+    text-decoration: none;
+}
+
 #gojo{   
       width: 400px;
       border: solid 2px rgb(74, 150, 221);
