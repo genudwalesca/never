@@ -11,7 +11,7 @@ Link:hover{
 
 #gojo{   
       width: 400px;
-      border: solid 2px rgb(74, 150, 221);
+      border: solid 2px rgb(214, 100, 34);
 }
 .principal{
     background-color: white;
@@ -19,6 +19,6 @@ Link:hover{
 }
 .rodape{
     background-color: white;
-    color:black;
+    color:rgb(223, 32, 32);
     text-align: center;
 }
